@@ -1,0 +1,15 @@
+certifi==2018.10.15
+chardet==3.0.4
+dictknife==0.8.2
+idna==2.7
+importlib2==3.5.0.2
+magicalimport==0.4.0
+marshmallow==2.16.3
+prestring==0.5.2
+Python3-Youtrack-api==0.2
+PyYAML==3.13
+requests==2.20.0
+SQLAlchemy==1.2.13
+swagger-marshmallow-codegen==0.4.1
+toml==0.10.0
+urllib3==1.24.1

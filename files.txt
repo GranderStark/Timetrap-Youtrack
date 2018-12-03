@@ -1,0 +1,11 @@
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/PKG-INFO
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/not-zip-safe
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/SOURCES.txt
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/requires.txt
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/top_level.txt
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/dependency_links.txt
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/EGG-INFO/scripts/timetrap_youtrack
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/timetrap_youtrack_package/__init__.py
+/usr/local/lib/python2.7/site-packages/Python3_Youtrack_api-0.2-py2.7.egg/timetrap_youtrack_package/__init__.pyc
+/usr/local/bin/timetrap_youtrack
+/usr/local/bin/chardetect
