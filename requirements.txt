@@ -1,4 +1,4 @@
-certifi==2018.10.15
+certifi==2024.7.4
 chardet==3.0.4
 dictknife==0.8.2
 idna==2.7
